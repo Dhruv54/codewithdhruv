@@ -74,7 +74,7 @@ const Hero = () => {
         >
           <div className="relative w-64 h-64 md:w-80 md:h-80 rounded-full overflow-hidden border-4 border-blue-600 dark:border-blue-400 shadow-xl">
             <Image
-              src="/profile.jpeg"
+              src="/profile.png"
               alt="Dhruv's profile picture"
               fill
               // className="object-cover p-4 dark:invert"
